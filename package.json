@@ -1,0 +1,27 @@
+{
+  "name": "node-basic",
+  "version": "1.0.0",
+  "description": "Node js internals",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node ./main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a2ankitrai/node-basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a2ankitrai/node-basic/issues"
+  },
+  "homepage": "https://github.com/a2ankitrai/node-basic#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.25",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
